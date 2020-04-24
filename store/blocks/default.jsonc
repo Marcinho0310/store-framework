@@ -1,6 +1,6 @@
 {
   "store.orderplaced": {
-    "blocks": ["order-placed"]
+    "blockss": ["order-placed"]
   },
 
   "store.account": {
